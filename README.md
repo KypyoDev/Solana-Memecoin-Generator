@@ -38,14 +38,14 @@ Follow these steps to create and mint SPL tokens:
    npm install
    ```
 
-5. **Edit the \`.env.copy\` file** to include the required fields. If you have a custom RPC, replace it as needed.
+5. **Edit the \`env.txt\` file** to include the required fields. If you have a custom RPC, replace it as needed.
 
     ```bash
     PRIVATE_KEY=YourPrivateKeyHere
     RPC_ENDPOINT=ReplaceWithYourRPCorUseDefault
     ```
 
-6. **Rename \`.env.copy\` to \`.env\`:**
+6. **Rename \`env.txt\` to \`.env\`:**
 
    You can rename it manually or run:
 
